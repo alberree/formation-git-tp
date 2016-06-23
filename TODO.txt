@@ -20,3 +20,6 @@ servlet
 wicket
 struts
 jsf
+
+appli lourde :
+swing
