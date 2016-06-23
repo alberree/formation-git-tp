@@ -1,0 +1,21 @@
+Sites à scanner :
+voyages
+ryanair
+
+Langage de programmation :
+
+java
+
+serveur :
+
+tomcat7
+
+
+couleurs de l'application :
+rouge fond vert
+
+
+techno :
+servlet
+wicket
+struts
