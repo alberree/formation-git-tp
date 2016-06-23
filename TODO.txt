@@ -19,3 +19,4 @@ techno :
 servlet
 wicket
 struts
+jsf
